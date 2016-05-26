@@ -7,8 +7,8 @@ title: "Brandon Casey's Blog"
 subtitle:
 description:
 author: Brandon Casey
-language:
-timezone: EST
+language: en
+timezone: America/New_York
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,18 +63,22 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
 
-disqus_shortname: brandonocasey
 cname: brandoncasey.me
 excerpt_link: Read More
 google_analytics: UA-78352307-1
 
+## NEXT theme settings
+theme: next
+disqus_shortname: brandonocasey
 fancybox: true
 menu:
-  Home: /
-  Archives: /archives
-  Youtube: https://bit.ly/BrawnBeard
+  home: /
+  archives: /archives
+
+avatar: /images/brawnbeard-icon.jpg
+favicon: /favicon.ico
+since: 2016
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
