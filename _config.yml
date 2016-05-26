@@ -66,6 +66,7 @@ pagination_dir: page
 theme: landscape
 
 disqus_shortname: brandonocasey
+cname: brandoncasey.me
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
