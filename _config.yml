@@ -12,7 +12,7 @@ timezone: EST
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://brandonocasey.me
+url: /
 root: /
 permalink: /:title/
 permalink_defaults:
@@ -67,6 +67,14 @@ theme: landscape
 
 disqus_shortname: brandonocasey
 cname: brandoncasey.me
+excerpt_link: Read More
+google_analytics: UA-78352307-1
+
+fancybox: true
+menu:
+  Home: /
+  Archives: /archives
+  Youtube: https://bit.ly/BrawnBeard
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

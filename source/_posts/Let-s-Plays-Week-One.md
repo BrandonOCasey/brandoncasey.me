@@ -1,5 +1,5 @@
 ---
-title: My First Week of Let's Plays
+title: "Let's Plays: Week One"
 date: 2016-05-22 14:57:00
 ---
 
@@ -13,7 +13,7 @@ As some of you know, but most of you probably don't, I recently started a [Brawn
 
 My "Let's Plays" started out with a slew of research, as most of my projects do. I always want to find the very best gear for the money, or the best way to do something. Usually my research opens my mind to other possibilities and I follow all of them to their conclusions until I have a more complete picture of the problem. I have also been called "Frugal" more than once in my life, and this project would be no exception.
 
-First we will start with the gear that I already deemed suitable for use. I already had a [Playstation Eye][ps-eye] which was gifted to me some time ago for the PS3. As you can imagine I never did anything with it until now. The [Playstation Eye][ps-eye] was basically worthless and still would be today. For my project I felt that it would be suitable to use as it offered decent quality for no money. Hell, even if I was to buy it new on Amazon it would only cost about five dollars. The only snag with the [PlayStation Eye][ps-eye] was that it was not natively supported on any version of Windows. Luckily a company called [Code Laboraties][cl-eye] created drivers for just such an occasion, and the price tag of 2.99 can't be beat.
+First we will start with the gear that I already deemed suitable for use. I already had a [Playstation Eye][ps-eye] which was gifted to me some time ago for the PS3. As you can imagine I never did anything with it until now. The [Playstation Eye][ps-eye] was basically worthless and still would be today. For my project I felt that it would be suitable to use as it offered decent quality for no money. Hell, even if I was to buy it new on Amazon it would only cost about five dollars. The only snag with the [PlayStation Eye][ps-eye] was that it was not natively supported on any version of Windows. Luckily a company called [Code Labratories][cl-eye] created drivers for just such an occasion, and the price tag of 2.99 can't be beat.
 
 So now I had a working Webcam so that I could paste my face all over the video that I would soon be shooting. The next piece of gear that every "Let's Player" needs is a gaming computer. Being a long time gaming enthusiast I have one of those. The snag here was that the hardware was four years old with nearly zero upgrades along the way. The only way to know for sure whether what I wanted to do would work was to test it. So I fired up [SOMA][soma] and [OBS][obs] to try doing a mock Let's Play. At the time my webcam with "muxed" directly in with the game video. See the (##Lessons) section for why this is a bad idea. For bad or for good I determined that my computer could record the gameplay of SOMA in 1080p at 30 fps using the x264 encoder. I was stunned and couldn't believe that I wouldn't need to upgrade a thing to have things go the way that I wanted.
 
@@ -41,7 +41,11 @@ Luckily for me my wife works as a graphic designer so she already had all the [A
 
 Now that I had a storage solution I had my wife work on some branding with me. We decided that it would be funny to have my making a crazy face on a volcano to start, so that is what we ended up going with. For the crazy face we decided to go with a picture from a photo that was taken of me on christmas years before.
 
-![christmas-2013](/images/christmas-2013.jpg)
+![christmas-2013](/Let-s-Plays-Week-One/christmas-2013.jpg)
+
+This is the end product!
+
+![brawnbeard-banner](/Let-s-Plays-Week-One/brawnbeard-banner.jpg)
 
 With the branding out-of-the-way I needed to set a schedule. I saw that popular "Let's Players" usually release onc or more video per day. Doing more than one video per day was out of the question for me, with a full-time job I was barely going to be able to record and edit one video a day. My pride had other ideas though. I settled to do the "bare minimum" of one video per day, which was still a lofty goal. I think that I really won myself over when I thought about having 365 videos in one years time. A schedule like this also gives me a lot of episodes, which means I will actually be able to finish games.
 
@@ -80,14 +84,14 @@ After scheduling the video I wanted to push pre-prepared posts to social media, 
 * [TubeBuddy][tube-buddy]
 
 ## Hardware
-* [Playstation Eye][ps-eye]
+* [Playstation Eye][ps-eye] - its okay for starting out
 * [Clear O-Rings][o-ring]
 * [MK TKL Disco with Brown Switches][keyboard]
-* [Audio Technica AT2020 XLR Microphone][microphone]
-* [Behringer Xenyx Q502 USB mixer][mixer]
-* [Neewer Mic Stand][mic-stand]
-* [Dragon Pop Filter][filter]
-* [Generic XLR cable][cable]
+* [Audio Technica AT2020 XLR Microphone][microphone] - Grrrrreat!
+* [Behringer Xenyx Q502 USB mixer][mixer] - Okay, but I think it is causing issues
+* [Neewer Mic Stand][mic-stand] - good if you never slam keys
+* [Dragon Pop Filter][filter] - Very hard to work with
+* [Generic XLR cable][cable] - Awesome
 * A four-year old gaming computer, with no upgrades
 	* i5 3750k
 	* Radeon HD 7970
@@ -95,7 +99,7 @@ After scheduling the video I wanted to push pre-prepared posts to social media, 
 	* 64GB 7-year-old SSD from my last PC build
 	* two monitors
 * Two shitty/cheap IKEA desk lamps for lighting, awkwardly mounted
-* [Audio Technica M50x Headphones][headphones]
+* [Audio Technica M50x Headphones][headphones] - Super awesome
 * [Razer eXactMat][mousepad] - from a long time ago
 * [Logitech G5][mouse] - from forever ago
 
@@ -116,20 +120,19 @@ After scheduling the video I wanted to push pre-prepared posts to social media, 
 * [Best times to post to Youtube][time-to-post]
 * get a floor standing microphone holder with a boom arm
 
-
 [channel]: https://bit.ly/BrawnBeard
-[ps-eye]: http://www.smile.amazon.com/PlayStation-Eye-3/dp/B000VTQ3LU/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1464025036&sr=1-1-catcorr&keywords=playstation+eye
+[ps-eye]: http://amzn.to/22pMaWL
 [cl-eye]: https://codelaboratories.com/downloads/
-[o-ring]: https://smile.amazon.com/gp/product/B00K73IE1C/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1
-[keyboard]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1540
-[microphone]: http://www.smile.amazon.com/Audio-Technica-AT2020-Cardioid-Condenser-Microphone/dp/B0006H92QK
-[mixer]: http://www.smile.amazon.com/Behringer-Xenyx-Q502USB-Audio-Mixer/dp/B008O516JW?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s03
-[mic-stand]: http://www.smile.amazon.com/Neewer%C2%AE-Suspension-Scissor-Built-Mounting/dp/B00AK7SKL4?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s01
-[cable]: http://smile.amazon.com/Gearlux-Balanced-Microphone-Oxygen-Free-Conductor/dp/B00GYGRTT4?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s01
-[headphones]: http://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86
-[mouse]: http://www.amazon.com/Logitech-Laser-Mouse-Blue-Black/dp/B000ODN7VM?ie=UTF8&keywords=Logitech%20g5&qid=1464052202&ref_=sr_1_2&sr=8-2
-[mousepad]: http://www.amazon.com/Razer-eXactMat-eXactRest-Bundle-Mouse/dp/B00084KYFY
-[filter]: http://www.smile.amazon.com/Dragonpad-filter-Microphone-Flexible-Gooseneck/dp/B008AOH1O6
+[o-ring]: http://amzn.to/1Rs2L40
+[keyboard]: http://amzn.to/22pMgh0
+[microphone]: http://amzn.to/1Rs2iir
+[mixer]: http://amzn.to/1Rs2I8g
+[mic-stand]: http://amzn.to/1Rs2I8g
+[cable]: http://amzn.to/22pMvZj
+[headphones]: http://amzn.to/1Rs2TAE
+[mouse]: http://amzn.to/1Rs3oe1
+[mousepad]: http://amzn.to/1OYC3pj
+[filter]: http://amzn.to/1OYBWds
 
 [dropbox]: https://www.dropbox.com/home
 [creative-cloud]: https://creative.adobe.com/
